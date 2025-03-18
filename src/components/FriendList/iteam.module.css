@@ -1,0 +1,26 @@
+.block{
+    border: 2px black solid;
+    border-radius: 7px;
+    padding: 1em;
+    line-height: 0;
+}
+.img{
+    width: 5em;
+}
+.name{
+    font-size: 1.1em;
+    font-weight: 600;
+}
+.status{
+    font-size: 1em;
+    color: rgb(169, 38, 38);
+}
+.status{
+    background: red;
+}
+.online{
+color: green;
+}
+.offline{
+    color: red;
+}
